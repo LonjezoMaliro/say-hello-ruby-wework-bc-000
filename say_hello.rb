@@ -1,7 +1,7 @@
 # Build your say_hello method here
-person_name = "Gabriella"
+person_name = "Gabriela"
 
-def say_hello(name, name = Ruby Programmer!)
+def say_hello(Gabriela, name = Ruby Programmer!)
   puts "Hello, #{name}"
   
 end
